@@ -23,3 +23,4 @@
 ### https://matomo.org/blog/2024/05/website-kpis/
 ### https://www.cognisant-hosting.com/website-performance-indicators/
 ### https://www.indeed.com/career-advice/career-development/improvement-of-website
+### https://www.w3schools.com/html/
