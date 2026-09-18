@@ -21,14 +21,14 @@
 ### Milestone 8: Final website and project submitted.
 ## Change Logs 
 ### Added
-### Quick link navigation 2026/09/18
-### New information added
-### Files added in the GitHub Repository
-### New font style and size
+### Quick link navigation was created on the 18 September
+### New information was added in the index, service, about, enquiries and contact html
+### New Files were now added in the GitHub Repository
+### New font style and size in the CSS files
 ### Deleted
-### The Logo images
-### Media visual
-### Old information from the last month
+### The Logo images that was on the html folders were removed in the website
+### Media visual was deleted in the index html file
+### Old information from the last month that wasn't needed
 ## References
 ### https://matomo.org/blog/2024/05/website-kpis/
 ### https://www.cognisant-hosting.com/website-performance-indicators/
