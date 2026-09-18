@@ -18,7 +18,17 @@
 ### Milestone 5: Functionality and responsiveness completed. 
 ### Milestone 6: Testing and debugging completed. 
 ### Milestone 7: Final documentation completed. 
-### Milestone 8: Final website and project submitted. 
+### Milestone 8: Final website and project submitted.
+## Change Logs 
+### Added
+### Quick link navigation 2026/09/18
+### New information added
+### Files added in the GitHub Repository
+### New font style and size
+### Deleted
+### The Logo images
+### Media visual
+### Old information from the last month
 ## References
 ### https://matomo.org/blog/2024/05/website-kpis/
 ### https://www.cognisant-hosting.com/website-performance-indicators/
